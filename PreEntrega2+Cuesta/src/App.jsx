@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import ItemListContainer from './components/ItemListContainer/ItemListContainer'
+import ItemListContainer from './components/JSON/ItemListContainer.json'
 import NavBar from './components/NavBar/NavBar'
 import Brand from './components/Brand/Brand'
 
@@ -13,7 +13,6 @@ function App() {
           <NavBar />
         </header>
         <footer className="flex justify-center">
-          <ItemListContainer greeting='Bienvenidos'/>
         </footer>
       </div>
     </>

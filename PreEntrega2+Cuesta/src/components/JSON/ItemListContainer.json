@@ -1,0 +1,32 @@
+{
+    "products": [
+    {
+        "title": "Pantallas",
+        "description": "Pantallas",
+        "price": 30,
+        "pictureURL": "#"
+    },
+
+    {
+        "title": "Pantallas",
+        "description": "Pantallas",
+        "price": 30,
+        "pictureURL": "#"
+    },
+
+    {
+        "title": "Pantallas",
+        "description": "Pantallas",
+        "price": 30,
+        "pictureURL": "#"
+    },
+    
+    {
+        "title": "Pantallas",
+        "description": "Pantallas",
+        "price": 30,
+        "pictureURL": "#"
+    }
+
+    ]
+}
