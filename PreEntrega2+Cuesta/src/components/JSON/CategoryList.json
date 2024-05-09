@@ -2,21 +2,22 @@
     "categories": [
     {
         "name": "Pantallas",
-        "link": "#"
+        "url": "pantallas"
     },
 
     {
         "name": "Cargadores",
-        "link": "#"
+        "url": "cargadores"
     },
 
     {
         "name": "Baterías",
-        "link": "#"
+        "url": "baterias"
     },
     
-    {  "name": "Fundas",
-        "link": "#"
+    {
+        "name": "Fundas",
+        "url": "fundas"
     }
 
     ]

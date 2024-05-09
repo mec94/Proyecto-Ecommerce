@@ -1,14 +1,14 @@
-import CartWidget from '../CartWidget/CartWidget'
+import { NavLink } from 'react-router-dom'
+import CartWidget from '../Cart/CartWidget'
 import CategoryList from '../JSON/CategoryList.json'
 
 const NavBar = () => {
 
-    const categories = CategoryList.categories.map( (categoryName) => 
-            <li>
-                <a
-                    href={categoryName.link}
-                    key={categoryName.name}>{categoryName.name}
-                </a>
+    const categories = CategoryList.categories.map( (category) => 
+            <li key={category.name}>
+                <NavLink to={`/category/${category.url}`} >
+                    {category.name}
+                </NavLink>
             </li>
     )
 

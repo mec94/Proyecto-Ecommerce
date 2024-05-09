@@ -1,30 +1,34 @@
 {
     "products": [
     {
-        "title": "Pantallas",
-        "description": "Pantallas",
+        "title": "Módulo-Xiaomi-MI-A2",
+        "category": "Pantallas",
+        "description": "Módulo pantalla incl. táctil para Xiaomi MI A2",
         "price": 30,
         "pictureURL": "#"
     },
 
     {
-        "title": "Pantallas",
-        "description": "Pantallas",
-        "price": 30,
+        "title": "Cargador-Samsung-Galaxy-A5",
+        "category": "Cargadores",
+        "description": "Cargador original smartphone Samsung Galaxy A5",
+        "price": 40,
         "pictureURL": "#"
     },
 
     {
-        "title": "Pantallas",
-        "description": "Pantallas",
-        "price": 30,
+        "title": "Batería-para-Iphone-14",
+        "category": "Baterías",
+        "description": "Batería de reemplazo original de Apple Iphone 14",
+        "price": 50,
         "pictureURL": "#"
     },
     
     {
-        "title": "Pantallas",
-        "description": "Pantallas",
-        "price": 30,
+        "title": "Funda-One-Plus-12",
+        "category": "Fundas",
+        "description": "Funda de goma resistente que protege al OnePlus contra caídas",
+        "price": 20,
         "pictureURL": "#"
     }
 
