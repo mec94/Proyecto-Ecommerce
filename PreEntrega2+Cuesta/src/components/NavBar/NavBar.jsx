@@ -14,6 +14,7 @@ const NavBar = () => {
 
     return (
         <nav className="flex justify-around gap-2">
+            <NavLink to="/">Inicio</NavLink>
             <ul className="flex gap-5">
                 {categories}
             </ul>
